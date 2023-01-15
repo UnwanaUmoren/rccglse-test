@@ -214,7 +214,7 @@ p{
 }
 
 th{
-  padding-left: 450px;
+  padding-left: 400px;
 }
 
 td{
@@ -642,7 +642,7 @@ tab{
     font-weight: 200;
     font-size: 40px;
     color:#0d4a5c;
-    padding-bottom: 20px;
+    padding-bottom: 50px;
   }
 
   .services-heading{
