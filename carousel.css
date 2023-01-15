@@ -202,6 +202,25 @@ p{
   color:#0d4a5c;
 }
 
+.tabp{
+    
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+    color:#0d4a5c;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    
+  
+}
+
+th{
+  padding-left: 450px;
+}
+
+td{
+  padding-left: 30px;
+}
+
 .worship-image{
   border-radius: 10%;
   width:90%;
@@ -520,6 +539,7 @@ margin-top: 0;
 
 .contact-form{
   padding: 70px;
+  padding-top: 0;
   
 }
 
@@ -534,7 +554,12 @@ margin-top: 0;
 
 .contact-us{
   
-  margin: auto;
+  
+}
+
+tab{
+ margin: auto;
+ 
 }
 
 
@@ -714,8 +739,7 @@ margin-top: 0;
 }
 
 .contact-us{
-  margin: auto;
-  padding-left: 500px;
+  padding-left: 50px;
 }
   
 }
